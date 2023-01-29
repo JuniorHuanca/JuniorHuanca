@@ -4,7 +4,7 @@ Soy un desarrollador web con experiencia en JavaScript, React, Redux, Node JS, E
 
 # Proyectos Realizados
 
-- La Dionisia: Una aplicación web que permite a los usuarios realizar compras de vinos en línea de manera eficiente. Utilicé React para el front-end y Node JS con Express para el back-end. ##Deploy: https://la-dionisia-front.vercel.app/
+- La Dionisia: Una aplicación web que permite a los usuarios realizar compras de vinos en línea de manera eficiente. Utilicé React para el front-end y Node JS con Express para el back-end. | Deploy: https://la-dionisia-front.vercel.app/
 
 # Tecnologias
 
