@@ -8,16 +8,24 @@
 - La Dionisia (PF): A web application that allows users to make online wine purchases efficiently. We use NextJS, tailwind for the front and Node with Express for the backend, the db we used was postgresql | Deploy: https://la-dionisia-front.vercel.app/
 
 # Technologies
-[![javascript](https://user-images.githubusercontent.com/111140889/215791611-15fd0d48-a0ce-4d59-b60b-23a215cf9488.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![javascript](./96/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](./96/react.png)]()
+[![Nextjs](./96/nextjs.png)]()
+[![Typescript](./96/typescript.png)]()
+[![Redux](./96/redux.png)]()
+[![Npm](./96/npm.png)]()
+[![Git](./96/git.png)]()
+[![Nodejs](./96/nodejs.png)]()
+[![Express](./96/express.png)]()
+[![Postgresql](./96/postgresql.png)]()
+[![Sequelize](./96/sequelize.png)]()
+[![Tailwind](./96/tailwind.png)]()
+[![Css](./96/css.png)]()
+[![Html](./96/html.png)]()
 
-- Redux!
-- Node JS
-- Express
-- Sequelize
-- HTML
-- CSS
-
-
+# Contact Me
+[![GitHub](./96/github.png)](https://github.com/JuniorHuanca)
+[![Linkedin](./96/linkedin.png)](https://www.linkedin.com/in/junior-huanca-697582254/)
 <!--
 **JuniorHuanca/JuniorHuanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
