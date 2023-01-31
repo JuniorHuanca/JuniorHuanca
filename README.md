@@ -3,13 +3,13 @@
 - 🔭 I’m currently working on my porfolio.
 - 🌱 I’m currently learning Typescript and prisma.
 - - 💬 Ask me about javascript, react, express and others.
-# Proyectos Realizados
+# Fulfilled projects
 
-- La Dionisia (PF): Una aplicación web que permite a los usuarios realizar compras de vinos en línea de manera eficiente. Utilizamos NextJS, tailwind para el front y para el backend Node con Express, la db que usamos fue postgresql | Deploy: https://la-dionisia-front.vercel.app/
+- La Dionisia (PF): A web application that allows users to make online wine purchases efficiently. We use NextJS, tailwind for the front and Node with Express for the backend, the db we used was postgresql | Deploy: https://la-dionisia-front.vercel.app/
 
-# Tecnologias
+# Technologies
 
-- JavaScript
+- JavaScript 
 - React
 - Redux
 - Node JS
