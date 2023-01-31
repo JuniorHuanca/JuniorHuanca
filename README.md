@@ -1,12 +1,12 @@
 # Hi 👋, I'm Junior Huanca
 ## A passionate full stack developer from Perú
-
+- 🔭 I’m currently working on my porfolio.
+- 🌱 I’m currently learning Typescript and prisma.
+- - 💬 Ask me about javascript, react, express and others.
 # Proyectos Realizados
 
 - La Dionisia (PF): Una aplicación web que permite a los usuarios realizar compras de vinos en línea de manera eficiente. Utilizamos NextJS, tailwind para el front y para el backend Node con Express, la db que usamos fue postgresql | Deploy: https://la-dionisia-front.vercel.app/
 
-## 
-- 🔭 I’m currently working on my porfolio
 # Tecnologias
 
 - JavaScript
