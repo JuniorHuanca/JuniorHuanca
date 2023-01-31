@@ -2,16 +2,15 @@
 ## A passionate full stack developer from Perú
 - 🔭 I’m currently working on my porfolio.
 - 🌱 I’m currently learning Typescript and prisma.
-- - 💬 Ask me about javascript, react, express and others.
+- 💬 Ask me about javascript, react, express and others.
 # Fulfilled projects
 
 - La Dionisia (PF): A web application that allows users to make online wine purchases efficiently. We use NextJS, tailwind for the front and Node with Express for the backend, the db we used was postgresql | Deploy: https://la-dionisia-front.vercel.app/
 
 # Technologies
+[![javascript](https://user-images.githubusercontent.com/111140889/215791611-15fd0d48-a0ce-4d59-b60b-23a215cf9488.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-- JavaScript 
-- React
-- Redux
+- Redux!
 - Node JS
 - Express
 - Sequelize
