@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on [Portfolio](https://juniorhuanca.netlify.app/)  
   
 
-- 🌱 I’m currently learning Typescript and prisma.  
+- 🌱 I’m currently learning Typescript and Prisma.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN, PERN stack and related technologies  
   
 
 <br/>  
