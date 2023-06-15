@@ -47,13 +47,8 @@
 
 ## Fulfilled projects  
 - La Dionisia (PF): A web application that allows users to make online wine purchases efficiently. We use NextJS, tailwind for the front and Node with Express for the backend, the db we used was postgresql | Deploy: https://la-dionisia-front.vercel.app/  
-  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuniorHuanca&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+- DigitalDreams: The project is an e-commerce website that offers a variety of technology and computer related products. The main goal of the project is to provide users with a convenient platform for purchasing quality products online. | Deploy: https://digitaldreams.vercel.app/
 
 <br/>  
 
