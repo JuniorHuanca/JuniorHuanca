@@ -53,6 +53,11 @@
 <br/>  
 
 
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=JuniorHuanca&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorHuanca&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/JuniorHuanca" target="_blank">
@@ -64,4 +69,5 @@
 </div>  
 
 <br />
+
 
