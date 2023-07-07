@@ -1,7 +1,7 @@
 ### <div align="center">👨‍💻 I'm Junior Huanca, a full-stack developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Portfolio](https://juniorhuanca.netlify.app/)  
+- 🔭 I’m currently working on [Portfolio](https://juniorhuanca.vercel.app/)  
   
 
 - 🌱 I’m currently learning Typescript and Prisma.  
