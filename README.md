@@ -46,9 +46,12 @@
 
 
 ## Fulfilled projects  
-- La Dionisia (PF): A web application that allows users to make online wine purchases efficiently. We use NextJS, tailwind for the front and Node with Express for the backend, the db we used was postgresql | Deploy: https://la-dionisia-front.vercel.app/  
+- La Dionisia (PF): An online wine shop with registration and access through email or Google account. Wide selection of wines that can be filtered and sorted. Secure payment with credit card or PayPal. Favorites feature for desired products. Users can save products to their favorites, while administrators have access to a panel for editing and managing products, as well as viewing statistics and registered users. Users can leave reviews and ratings, which can be reported and moderated by administrators. | Deploy: https://la-dionisia-front.vercel.app
 
-- DigitalDreams: The project is an e-commerce website that offers a variety of technology and computer related products. The main goal of the project is to provide users with a convenient platform for purchasing quality products online. | Deploy: https://digitaldreams.vercel.app/
+- DigitalDreams: It is an e-commerce website for technology and computer-related products. The goal is to provide a convenient platform for purchasing quality products online. It will include advanced search filters, third-party authentication, and a secure payment gateway. Customers will be able to explore categories, compare products, read reviews, and make secure purchases. Third-party authentication will be provided to facilitate registration and access. In summary, we aim to provide a convenient and secure online shopping experience for technology enthusiasts. | Deploy: https://digitaldreams.vercel.app
+
+- SmartEats: The project aims to showcase a collection of 100 food recipes, allowing users to filter and sort recipes according to their preferences. Additionally, it features a search bar to facilitate finding specific recipes. Furthermore, a controlled form has been implemented to enable users to add new recipes to the system securely and accurately. Redux is also utilized for state management, and pagination has been implemented. In summary, the project aims to provide a convenient online culinary experience for food enthusiasts. | Deploy: https://smarteats.vercel.app
+
 
 <br/>  
 
