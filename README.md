@@ -63,14 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=JuniorHuanca&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JuniorHuanca/JuniorHuanca/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/JuniorHuanca" target="_blank">
