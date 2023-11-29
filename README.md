@@ -57,9 +57,19 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JuniorHuanca&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorHuanca&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniorHuanca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=JuniorHuanca&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JuniorHuanca/JuniorHuanca/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Connect with me  
 <div align="center">
