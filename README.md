@@ -75,7 +75,7 @@
 
 ## Support me  
 <div align="center">
-  <a href="https://ko-fi.com/juniorhuanca"> 
+  <a href="https://ko-fi.com/juniorhuanca" target="_blank"> 
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="juniorhuanca" />
   </a>
 </div>  
