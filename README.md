@@ -71,12 +71,21 @@
 <a href="https://www.linkedin.com/in/juniorhuanca" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+</div>  
 
-<br />
-<br />
+## Support me  
+<div align="center">
+  <a href="https://ko-fi.com/juniorhuanca"> 
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="juniorhuanca" />
+  </a>
+</div>  
 
+<div align="center"><br/><br/>
+  
 [![](https://visitcount.itsvg.in/api?id=JuniorHuanca&icon=5&color=12)](https://visitcount.itsvg.in)
 
 </div>  
+
+
 
 
