@@ -55,14 +55,6 @@
 
 <br/>  
 
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuniorHuanca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=JuniorHuanca&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/JuniorHuanca" target="_blank">
